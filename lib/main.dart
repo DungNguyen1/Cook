@@ -27,7 +27,6 @@ class _MyAppState extends State<MyApp> {
   void _setFilters(Map<String, bool> filtersdata) {
     setState(() {
       _filters = filtersdata;
-      _availableMeals = DUMMY_MEALS.where((meal) {}).toList();
     });
   }
 

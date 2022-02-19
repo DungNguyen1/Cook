@@ -30,8 +30,7 @@ class _FilterScreenState extends State<FilterScreen> {
         appBar: AppBar(
           title: Text("chill"),
           actions: <Widget>[
-            IconButton(
-                onPressed: widget.saveFilters, icon: const Icon(Icons.save))
+            IconButton(onPressed: null, icon: const Icon(Icons.save))
           ],
         ),
         drawer: MainDrawer(),
