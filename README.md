@@ -60,7 +60,7 @@ as JavaScript for the web and Intel x64 for desktop devices.
 
 Flutter offers stateful hot reload, allowing you to make changes to your code
 and see the results instantly without restarting your app or losing its state.
-![home](/_assets/home.png)
+![home](./_assets/home.png)
 
 
 ### Extensible and open model
@@ -74,5 +74,5 @@ channels].
 
 Flutter is a fully open-source project, and we welcome contributions.
 Information on how to get started can be found in our.
-[Flutter logo]:(/_assets/flutter.jpeg)
+[Flutter logo]:(./_assets/flutter.jpeg)
 [flutter.dev]: https://flutter.dev
