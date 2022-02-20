@@ -1,4 +1,4 @@
-# [![Flutter logo][]][flutter.dev]
+# ![flutter](./_assets/image/flutter.jpeg)
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
 mobile, web, and desktop from a single codebase. Flutter works with existing
 code, is used by developers and organizations around the world, and is free and
@@ -74,5 +74,4 @@ channels].
 
 Flutter is a fully open-source project, and we welcome contributions.
 Information on how to get started can be found in our.
-[Flutter logo]:(./_assets/image/flutter.jpeg)
-[flutter.dev]: https://flutter.dev
+
